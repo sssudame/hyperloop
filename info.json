@@ -1,0 +1,8 @@
+{
+	"name": "hyperloop",
+	"version": "0.1",
+	"title": "Hyperloop",
+	"author": "sssudame",	
+	"factorio_version": "0.16",
+	"description": "Bring an underground Hyperloop to Nauvis. Used for a fast, UPS-friendly, point-to-point \"5th mode\" of transporting items."
+}
